@@ -1,11 +1,3 @@
-//
-//  ViewController.swift
-//  taskapp
-//
-//  Created by 佐藤 節夏 on 2018/07/27.
-//  Copyright © 2018年 mcxmc. All rights reserved.
-//
-
 import UIKit
 import RealmSwift
 import UserNotifications
